@@ -18,7 +18,7 @@ Instructions/Requirements:
 
 1. Include jQuery on your page.
 2. Include jQuery UI.
-3. Include your chosen jQuery UI Theme. (We used ui-darkness and it is only included as an example.)
+3. Include your chosen jQuery UI Theme. Roll your own to match your site at http://jqueryui.com/themeroller/ (We used ui-darkness and it is only included as an example.)
 4. Include npp.css. You might need to customize the 'example' class to fit your theme.
 5. Include npp.js. 
 6. Fill in your information.
