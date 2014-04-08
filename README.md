@@ -20,7 +20,7 @@ Instructions/Requirements:
 2. Include jQuery UI.
 3. Include your chosen jQuery UI Theme. (We used ui-darkness and it is only included as an example.)
 4. Include npp.css. You might need to customize the 'example' class to fit your theme.
-5. Include npp.css. 
+5. Include npp.js. 
 6. Fill in your information.
     1. Remove all the temp data from the nppConfig variable at the top of the npp.js file.
     2. Fill in all relevent fields for your situation in the nppConfig variable.
