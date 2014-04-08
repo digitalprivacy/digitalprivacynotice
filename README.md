@@ -24,7 +24,7 @@ Instructions/Requirements:
 6. Fill in your information.
     1. Remove all the temp data from the nppConfig variable at the top of the npp.js file.
     2. Fill in all relevent fields for your situation in the nppConfig variable.
-    3. Fill in your chosen PDF and include a reference to it in 'nppConfig.printableCopyLocation'. A copy of the layered PDF for both providers and healther care are included in the project. But you are free to use any of the model notices or your own.
+    3. Fill in your chosen PDF and include a reference to it in 'nppConfig.printableCopyLocation'. A copy of the layered PDF for both providers and health plans are included in the project. But you are free to use any of the model notices or your own.
 7. Try it out. Tweek it. Most of the fields will work with html tags to allow you to customize the ids/classes for your own css.
 
 
