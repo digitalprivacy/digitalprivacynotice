@@ -1,0 +1,40 @@
+
+span.example {
+    text-align: right;
+    font-style: italic;
+    float:right;
+    width: 75%;
+}
+b.example {
+    color:#ff9933;
+}
+
+#printableCopy {
+    float:right;
+    width:auto;
+    padding-top:3px;
+    padding-right:1em;
+}
+
+#instructionA {
+    float:left;
+    width:45%;
+    position:absolute;
+}
+#instructionB {
+    float:right;
+    width:45%;
+}
+
+#entityHeader {
+    width: 100%;
+    overflow:hidden;
+    position:relative;
+}
+
+#instructionH {
+    float:left;
+    width:auto;
+    padding-top:3px;
+    padding-left:1em;
+}
