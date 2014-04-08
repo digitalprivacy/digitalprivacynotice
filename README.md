@@ -8,7 +8,9 @@ Description:
 
 This entry was designed to present an unobtrusive but constantly present button to access the notice. Once clicked it opens a dialog with interactive accordians that nest the information taken from the layered notices developed by the ONC/OCR collaboration. The intent is to provide a simple yet effecitve way to browse the information in the notice. At the bottom of the dialog is a link to a filled out copy of the PDF taken from the HHS/OCR website for printing.
 
-It was designed to not require any modifications to an existing page except to include the javascript and css files in the head.
+It was designed to not require any modifications to an existing page except to include the javascript and css files in the head and edit the variables at the top to display appropriate localized information.
+
+Styling also becomes easy by creating your own UI variation with JQuery UI.
 
 
 Instructions/Requirements:
