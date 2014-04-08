@@ -14,7 +14,7 @@ var nppConfig = {
 	entityInstructionE:"<p>Instruction E</p>", //Instruction E: If your entity provides patients with access to their health information via the Blue Button protocol, you may want to insert a reference to it here.
 	entityEffectiveDate: Date(), //Instruction F: Insert Effective Date of this Notice
 	entityInstructionG:"Instruction G", //If your entity is part of an OHCA (organized health care arrangement) that has agreed to a joint notice, use this space to inform your patients of how you share information within the OHCA (such as for treatment, payment, and operations related to the OHCA). Also, describe the other entities covered by this notice and their service locations. For example, “This notice applies to Grace Community Hospitals and Emergency Services Incorporated which operate the emergency services within all Grace hospitals in the greater Dayton area.”
-	printableCopyLocation:"npp_layered_hc_provider.pdf" //Link to a manually filled out PDF of the model notice.
+	printableCopyLocation:"pdf/npp_layered_hc_provider.pdf" //Link to a manually filled out PDF of the model notice.
 };
 
 var nppDefaults = {

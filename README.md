@@ -26,6 +26,8 @@ Instructions/Requirements:
 7. Try it out. Tweek it. Most of the fields will work with html tags to allow you to customize the ids/classes for your own css.
 
 
+N.B. Currently this project uses the jQuery '$'. You might have conflicts with some older code.
+
 Dependencies:
 -------------
 
